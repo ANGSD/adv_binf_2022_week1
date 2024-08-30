@@ -7,7 +7,7 @@ Day | Time |  Subject | Lecturer
 --- | --- | --- | ---
 Day 1 - Monday | 9:15 - 12 | NGS data - Workflow, formats and programs | Thorfinn Sand Korneliussen
 Day 2 - Tuesday | 13:15 - 16 | Mapping - Suffix arrays and Burrows-Wheeler Transform | Rasmus A. Henriksen
-Day 3 - Friday | 9:15 - 12 | K-mers and metagenomic sequence classification | Abigail Ramsøe
+Day 3 - Friday | 9:15 - 12 | Surprice | Victor Morenomayar
 
 
 # Getting started
@@ -26,7 +26,7 @@ Replace with your remote server username. For example:
 
 
 ```sh
-$ ssh -X isin@emily.popgen.dk
+$ ssh -Y thorfinn@emily.popgen.dk
 ```
 
 
@@ -35,7 +35,7 @@ $ ssh -X isin@emily.popgen.dk
 ## Setting up the working environment
 
 
-If you are working on the emily server, all commands in the following seven exercises will be relative to the base directory called `/TEACHING/BIOINF23/adv_binf_2023_week1`
+If you are working on the emily server, all commands in the following seven exercises will be relative to the base directory called `/TEACHING/BIOINF24/adv_binf_2024_week1`
 
 ```sh
 day1
