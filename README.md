@@ -1,4 +1,4 @@
-# Advanced Bioinformatics for Next-Generation Sequencing 2022: Week 1
+# Advanced Bioinformatics for Next-Generation Sequencing 2024: Week 1
 
 
 
