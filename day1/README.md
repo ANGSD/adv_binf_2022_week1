@@ -49,7 +49,7 @@ $ ssh -X isin@emily.popgen.dk
 ### Setting up the working environment
 
 
-You will be working on the emily server. all commands in the following seven exercises will be relative to the base directory called `/TEACHING/BIOINF23/adv_binf_2023_week1`
+You will be working on the emily server. all commands in the following seven exercises will be relative to the base directory called `/TEACHING/BIOINF24/adv_binf_2024_week1`
 
 ```sh
 day1
@@ -72,7 +72,7 @@ Git is a version-control system software for tracking changes in a set of files,
 
 Copy data to your local home folder
 ```sh
-$ cp -r /TEACHING/BIOINF23/adv_binf_2023_week1 .
+$ cp -r /TEACHING/BIOINF24/adv_binf_2024_week1 .
 ```
 
 ___
